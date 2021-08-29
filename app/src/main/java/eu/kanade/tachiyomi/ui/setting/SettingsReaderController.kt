@@ -189,9 +189,10 @@ class SettingsReaderController : SettingsController() {
                     R.string.fit_width,
                     R.string.fit_height,
                     R.string.original_size,
-                    R.string.smart_fit
+                    R.string.smart_fit,
+                    R.string.fit_screen_no_upscale
                 )
-                entryRange = 1..6
+                entryRange = 1..7
                 defaultValue = 1
             }
 

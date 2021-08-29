@@ -425,6 +425,7 @@
     <string name="fit_height">Fit height</string>
     <string name="original_size">Original size</string>
     <string name="smart_fit">Smart fit</string>
+    <string name="fit_screen_no_upscale">Fit screen no upscale</string>
     <string name="zoom_start_position">Zoom start position</string>
     <string name="split_double_pages">Split double pages</string>
     <string name="double_pages">Double pages</string>

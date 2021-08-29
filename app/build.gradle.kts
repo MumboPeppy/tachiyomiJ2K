@@ -89,7 +89,8 @@ android {
 
 dependencies {
     // Modified dependencies
-    implementation("com.github.jays2kings:subsampling-scale-image-view:dfd3e43") {
+    //implementation("com.github.jays2kings:subsampling-scale-image-view:dfd3e43") {
+    implementation("com.github.MumboPeppy:subsampling-scale-image-view:tachiyomi-SNAPSHOT") {
         exclude(module = "image-decoder")
     }
     implementation("com.github.tachiyomiorg:image-decoder:0e91111")

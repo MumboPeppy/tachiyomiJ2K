@@ -38,6 +38,7 @@
         <item>@string/fit_height</item>
         <item>@string/original_size</item>
         <item>@string/smart_fit</item>
+        <item>@string/fit_screen_no_upscale</item>
     </string-array>
 
     <string-array name="manga_statuses">
